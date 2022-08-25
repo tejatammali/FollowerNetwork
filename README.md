@@ -22,6 +22,6 @@
 
 **Teja Tammali**
 
-- [Profile](https://github.com/tejatammali "Teja Tammali")
-- [Email](mailto:teja.tammali0@gmail.com?subject=Hello "Hello!")
-- [Linkedin](https://www.linkedin.com/in/tejatammali/ "Welcome")
+- [Profile](https://github.com/tejatammali "Teja's Github Profile")
+- [Email](mailto:teja.tammali0@gmail.com?subject=Hello "Hey, email me!")
+- [Linkedin](https://www.linkedin.com/in/tejatammali/ "Welcome to my linkedin!")
