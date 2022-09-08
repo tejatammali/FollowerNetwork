@@ -1,5 +1,5 @@
 <h1 align="center">Follower Network</h1>
-A network graph consisting of nodes and edges displaying connectivity between Twitter accounts that follow @PlayValorant Twitter account.
+A network graph consisting of nodes and edges displaying centrality between Twitter accounts that follow @PlayValorant Twitter account.
  
 ## 📇 Details 
 The source of the network data comes from the Twitter API (developer.twitter.com). From retrieving the data using the Twitter API, I set the target Twitter account to @PlayValorant. I then proceeded to enable the code to look throughout the first 50 friends of the account and then the first 50 of the already checked accounts. By collecting data in this way, it can be determined if the friends selected have a connection with each other based on the following status. The nodes in the network represent the different entities of the first 50 friends and the edges represent the connection the friends have with each other (following status). After I gather this data, I checked to see how many total nodes and edges were represented in the graph. The network resulted in 1528 nodes and 1869 edges.
@@ -27,11 +27,8 @@ One bug I encountered is getting the data to process the first few (50) friends 
 
 **Teja Tammali**
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- [Email](mailto:teja.tammali0@gmail.com?subject=Hello "Hey, email me!")
+<a href="mailto:tejat18@umd.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [Linkedin](https://www.linkedin.com/in/tejatammali/ "Welcome to my Linkedin!")
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejatammali/ "Welcome to my Linkedin!")
 
-![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-- [Medium](https://medium.com/@tejat "My Medium Profile")
+[![name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tejat "My Medium Profile")
